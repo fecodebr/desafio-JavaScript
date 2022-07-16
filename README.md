@@ -1,5 +1,5 @@
 # Desafio JavaScrip - Bootcamp HTML Web Developer
-- [x] ### 1/3 Visita na Feira
+- ### 1/3 Visita na Feira
 
 Desafio
 Você está na feira com a sua sacola e parou em uma banca. O feirante lhe entregou pimentões amarelos e vermelhos. Agora iremos somar os pimentões amarelos e vermelhos para descobrir o total de pimentões na sacola.  Você receberá 2 inteiros que devem ser lidos e armazenados nas variáveis A (pimentões amarelos) e B (pimentões vermelhos). Faça a soma de A e B atribuindo o seu resultado na variável X (total de pimentões). Apresente X como descrito na mensagem de exemplo abaixo. Não apresente outra mensagem além da mensagem especificada.
@@ -22,7 +22,7 @@ X = 9
 
 ------
 
-- [x] ### 2/3 - Multiplicação Simples 
+- ### 2/3 - Multiplicação Simples 
 
 Desafio
 Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável **PROD**, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).   
@@ -36,7 +36,7 @@ espaço em branco antes e depois da igualdade.
 
 ------
 
-- [x] ### 3/3 - Folha de Pagamento
+- ### 3/3 - Folha de Pagamento
 
 Desafio
 Precisamos saber quanto uma determinada empresa deve pagar para seus 
